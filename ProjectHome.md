@@ -1,0 +1,1 @@
+If there are 9 candidates of 3 kinds. Say 4 of first kind, 2 of second kind and 3 of third kind. This software lets user select each category based on their priority. If more people then candidate limits select one candidate they are randomise. But if they fit within candidate limit they get their candidate.
